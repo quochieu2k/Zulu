@@ -361,6 +361,7 @@ body {
   max-height: 115px;
 }
 .work-title {
+  height: 110px;
   font-size: 25px;
   font-weight: 600;
   margin-bottom: 30px;
